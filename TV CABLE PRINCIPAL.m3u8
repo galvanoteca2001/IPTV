@@ -1,0 +1,537 @@
+﻿#EXTM3U8
+#EXTINF:-1, ######## NOTICIAS ########
+C:\Users\Antonio\Desktop\IPTV\INTRO.mp4
+#EXTINF:-1,TN (NOTICIAS)
+https://www.youtube.com/watch?v=cb12KmMMDJA
+#EXTINF:-1,CNN ESPAÑOL (NOTICIAS)
+http://200.59.188.3:8000/play/a06d
+#EXTINF:-1,CANAL 26 (NOTICIAS)
+https://www.youtube.com/watch?v=MS0QdZ5zvn8
+#EXTINF:-1,A24 (NOTICIAS)
+http://217042262603776617.ofre802.xyz:80/live/24febrer24/Parecris/776617.ts
+#EXTINF:-1,C5N EN VIVO | Toda la información en un solo lugar - Seguí la transmisión las 24 horas
+https://www.youtube.com/watch?v=NdQSOItOQ5Y
+#EXTINF:-1,LN  EN VIVO | Últimas noticias de Argentina y el mundo
+https://www.youtube.com/watch?v=G5pHuBCqgrs
+#EXTINF:-1,CRONICA TV (NOTICIAS)
+https://www.youtube.com/watch?v=avly0uwZzOE
+#EXTINF:-1,Telefe Noticias 24hs de información 🌐 EN VIVO
+https://www.youtube.com/watch?v=7gf1DWo4fsI
+#EXTINF:-1, ######## ARGENTINA ########
+C:\Users\Antonio\Desktop\IPTV\INTRO.mp4
+#EXTINF:-1,VOLVER (ARGENTINA)
+http://217042262603776765.ofre802.xyz:80/live/24febrer24/Parecris/776765.ts
+#EXTINF:-1,TV PUBLICA (ARGENTINA)
+http://217042262603776759.ofre802.xyz:80/live/24febrer24/Parecris/776759.ts
+#EXTINF:-1,TV PUBLICA (ARGENTINA)
+http://217042262603807815.ofre802.xyz:80/live/24febrer24/Parecris/807815.ts
+#EXTINF:-1,AMERICA TV (ARGENTINA)
+http://217042262603776619.ofre802.xyz:80/live/24febrer24/Parecris/776619.ts
+#EXTINF:-1,TELEFE (ARGENTINA)
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#EXTINF:-1,EL TRECE (ARGENTINA)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1,CANAL DE LA CIUDAD (ARGENTINA)
+http://217042262603776631.ofre802.xyz:80/live/24febrer24/Parecris/776631.ts
+#EXTINF:-1, ######## PERU ########
+C:\Users\Antonio\Desktop\IPTV\INTRO.mp4
+#EXTINF:-1,TV ONE (PERU)
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1,TV PERUANISIMA (PERU)
+https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
+#EXTINF:-1,TV PERU (PERU)
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:-1,TV PERU NOTICIAS (PERU)
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+#EXTINF:-1,TV PERU INTERNACIONAL (PERU)
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+#EXTINF:-1,SOL TELEVISION (PERU)
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+#EXTINF:-1,SEÑAL PERU (PERU)
+https://livestream.perucast.com/hls/stream.m3u8
+#EXTINF:-1,LATINA (PERU)
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1,PANAMERICANA (PERU)
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:-1,RADIO TROPICAL (PERU)
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1,QT TV (PERU)
+https://servilive.com:3753/live/qosqotimeslive.m3u8
+#EXTINF:-1, ######## COLOMBIA ########
+C:\Users\Antonio\Desktop\IPTV\INTRO.mp4
+#EXTINF:-1,CARACOL (COLOMBIA)
+http://200.59.188.3:8000/play/a039
+#EXTINF:-1,RCN (COLOMBIA)
+http://200.59.188.3:8000/play/a03a
+#EXTINF:-1,RCN Novelas (COLOMBIA)
+http://200.59.188.3:8000/play/a07q
+#EXTINF:-1,RCN mas (COLOMBIA)
+http://200.59.188.3:8000/play/a0ab
+#EXTINF:-1,RCN xtra (COLOMBIA)
+http://200.59.188.3:8000/play/a0bk
+#EXTINF:-1, ######## VENEZUELA ########
+C:\Users\Antonio\Desktop\IPTV\INTRO.mp4
+#EXTINF:-1,GLOBOVISION (VENEZUELA)
+http://200.59.188.3:8000/play/a093
+#EXTINF:-1,VENEVISION  (VENEZUELA)
+http://200.59.188.3:8000/play/a095
+#EXTINF:-1, ######## PREMIUM ########
+C:\Users\Antonio\Desktop\IPTV\INTRO.mp4
+#EXTINF:-1,CINEMAX 1 (PREMIUM)
+http://200.59.188.3:8000/play/a016
+#EXTINF:-1,CINEMAX 2 (PREMIUM)
+http://200.59.188.3:8000/play/a03s
+#EXTINF:-1,CINECANAL (PREMIUM)
+http://45.228.234.210:8000/play/a01p/index.m3u8
+#EXTINF:-1,HBO (PREMIUM)
+http://200.59.188.3:8000/play/a020
+#EXTINF:-1,HBO (PREMIUM)
+http://200.59.188.3:8000/play/a03r
+#EXTINF:-1,HBO (PREMIUM)
+http://181.189.243.251:8000/play/a0vl/index.m3u8
+#EXTINF:-1,HBO (PREMIUM)
+http://181.189.243.251:8000/play/a0or/index.m3u8
+#EXTINF:-1,HBO 2 (PREMIUM)
+http://200.59.188.3:8000/play/a027
+#EXTINF:-1,HBO 2 (PREMIUM)
+http://181.189.243.251:8000/play/a0os/index.m3u8
+#EXTINF:-1,HBO PLUS (PREMIUM)
+http://200.59.188.3:8000/play/a06m
+#EXTINF:-1,HBO PLUS (PREMIUM)
+http://181.189.243.251:8000/play/a0ot/index.m3u8
+#EXTINF:-1,HBO FAMILY  (PREMIUM)
+http://181.189.243.251:8000/play/a0ou/index.m3u8
+#EXTINF:-1,HBO POP (PREMIUM)
+http://200.59.188.3:8000/play/a00m
+#EXTINF:-1,HBO XTREME (PREMIUM)
+http://181.189.243.251:8000/play/a0vi/index.m3u8
+#EXTINF:-1,HBO XTREME (PREMIUM)
+http://181.189.243.251:8000/play/a0ov/index.m3u8
+#EXTINF:-1,STAR CHANNEL (PREMIUM)
+http://45.228.234.210:8000/play/a01a/index.m3u8
+#EXTINF:-1,SPACE (PREMIUM)
+http://45.228.234.210:8000/play/a01u/index.m3u8
+#EXTINF:-1,SPACE (PREMIUM)
+http://200.59.188.3:8000/play/a00j
+#EXTINF:-1,SPACE (PREMIUM)
+http://200.59.188.3:8000/play/a03v
+#EXTINF:-1,STUDIO UNIVERSAL (PREMIUM)
+http://45.228.234.210:8000/play/a01o/index.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL 1 (PREMIUM)
+http://200.59.188.3:8000/play/a06r
+#EXTINF:-1,STUDIO UNIVERSAL 2 (PREMIUM)
+http://200.59.188.3:8000/play/a024
+#EXTINF:-1,UNIVERSAL CHANNEL (PREMIUM)
+http://45.228.234.210:8000/play/a01j/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL (PREMIUM)
+http://200.59.188.3:8000/play/a05a
+#EXTINF:-1,UNIVERSAL CINEMA (PREMIUM)
+http://200.59.188.3:8000/play/a06u
+#EXTINF:-1,UNIVERSAL CINEMA ESTE (PREMIUM)
+http://204.157.251.250:8001/play/a03w/index.m3u8
+#EXTINF:-1,UNIVERSAL COMEDY (PREMIUM)
+http://200.59.188.3:8000/play/a06v
+#EXTINF:-1,UNIVERSAL COMEDY (PREMIUM)
+http://204.157.251.250:8001/play/a031/index.m3u8
+#EXTINF:-1,UNIVERSAL CRIME (PREMIUM)
+http://204.157.251.250:8001/play/a030/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE (PREMIUM)
+http://204.157.251.250:8001/play/a02x/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE (PREMIUM)
+http://200.59.188.3:8000/play/a06t
+#EXTINF:-1,UNIVERSAL PREMIERE (PREMIUM)
+http://204.157.251.250:8001/play/a02y/index.m3u8
+#EXTINF:-1,UNIVERSAL REALITY (PREMIUM)
+http://204.157.251.250:8001/play/a02z/index.m3u8
+#EXTINF:-1,PARAMOUNT (PREMIUM)
+http://45.228.234.210:8000/play/a062/index.m3u8
+#EXTINF:-1,PARAMOUNT (PREMIUM)
+http://200.59.188.3:8000/play/a023
+#EXTINF:-1,PARAMOUNT (PREMIUM)
+http://204.157.251.250:8001/play/a03p/index.m3u8
+#EXTINF:-1,TNT Novelas (PREMIUM)
+http://45.228.234.210:8000/play/a05d/index.m3u8
+#EXTINF:-1,TNT Series (PREMIUM)
+http://45.228.234.210:8000/play/a05c/index.m3u8
+#EXTINF:-1,TNT 1 (PREMIUM)
+http://204.157.251.250:8001/play/a02q/index.m3u8
+#EXTINF:-1,TNT 2 (PREMIUM)
+http://200.59.188.3:8000/play/a010
+#EXTINF:-1,TNT Series (PREMIUM)
+http://204.157.251.250:8001/play/a04y/index.m3u8
+#EXTINF:-1,TNT Series (PREMIUM)
+http://200.59.188.3:8000/play/a01n
+#EXTINF:-1,TNT Novelas (PREMIUM)
+http://200.59.188.3:8000/play/a02r
+#EXTINF:-1,WARNER TV (PREMIUM)
+http://200.59.188.3:8000/play/a070
+#EXTINF:-1,WARNER TV (PREMIUM)
+http://200.59.188.3:8000/play/a00h
+#EXTINF:-1,SONY CHANNEL (PREMIUM)
+http://200.59.188.3:8000/play/a00g
+#EXTINF:-1,SONY NOVELAS (PREMIUM)
+http://200.59.188.3:8000/play/a0aa
+#EXTINF:-1,SONY Competencias (PREMIUM)
+http://200.59.188.3:8000/play/a0ca
+#EXTINF:-1,SONY MOVIES (PREMIUM)
+http://204.157.251.250:8001/play/a00c/index.m3u8
+#EXTINF:-1,FX (PREMIUM)
+http://200.59.188.3:8000/play/a01o
+#EXTINF:-1, ######## MUSICA ########
+C:\Users\Antonio\Desktop\IPTV\INTRO.mp4
+#EXTINF:-1,VINTAGE MUSIC (MUSICA)
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+#EXTINF:-1,V CLASSIC TV (MUSICA)
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1,TROPICAL MUSIC TV (MUSICA)
+http://68.235.37.11:1935/vallenato/vallenato/.m3u8
+#EXTINF:-1,RADIO ONDA DIGITAL (MUSICA)
+https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
+#EXTINF:-1,ONDAMBIENTAL COLOMBIA (MUSICA)
+https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+#EXTINF:-1,NOW ROCK (MUSICA)
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,NOW 80S (MUSICA)
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,NOW 70S (MUSICA)
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,LA HERMANDAD SALSERA (MUSICA)
+https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
+#EXTINF:-1,IMPACT TV DANCE (MUSICA)
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1,GLOBAL TV (MUSICA)
+https://stmv.video.gmpro.top/global/global/playlist.m3u8
+#EXTINF:-1,FUEGO TV (MUSICA)
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
+#EXTINF:-1,ECUAMUNDO RADIO TV (MUSICA)
+https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
+#EXTINF:-1,CONECTA TV (MUSICA)
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1,CALIFORNIA MUSIC CHANNEL (MUSICA)
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1,ACTIVA TV (MUSICA)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1,51 RADIO TV (MUSICA)
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+#EXTINF:-1,70-80 TV (MUSICA)
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1,MEGA HD (MUSICA)
+http://200.59.188.3:8000/play/a089
+#EXTINF:-1,MTV  (MUSICA)
+http://200.59.188.3:8000/play/a02x
+#EXTINF:-1,MTV LIVE (MUSICA)
+http://200.59.188.3:8000/play/a01i
+#EXTINF:-1,MTV 00s (MUSICA)
+http://200.59.188.3:8000/play/a014
+#EXTINF:-1,MTV 00s (MUSICA)
+http://204.157.251.250:8001/play/a02w/index.m3u8
+#EXTINF:-1,MUSIC TV (MUSICA)
+http://200.59.188.3:8000/play/a08h
+#EXTINF:-1,VINTAGE MUSIC  (MUSICA)
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,TV VEVO (MUSICA)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,VEVO 70's (MUSICA)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,VEVO 90's (MUSICA)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,VEVO RETRO ROCK (MUSICA)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,XITE 80s Flashback (MUSICA)
+https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,XITE 90s Throwback (MUSICA)
+https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,XITE Rock On (MUSICA)
+https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,XITE Hits (MUSICA)
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1,QMUSIC (MUSICA)
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1,BRIDGE ROCK  (MUSICA)
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1,MAGIC (MUSICA)
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1,FLASHBACK (MUSICA)
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1,STINGRAY QELLO (MUSICA)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,SHOW VEN  (MUSICA)
+http://200.59.188.3:8000/play/a090
+#EXTINF:-1,SIN LINITES  (MUSICA)
+http://200.59.188.3:8000/play/a084
+#EXTINF:-1,STINGRAY CONCERTS  (MUSICA)
+http://200.59.188.3:8000/play/a02j
+#EXTINF:-1, ######## INFANTIL ########
+C:\Users\Antonio\Desktop\IPTV\INTRO.mp4
+#EXTINF:-1,MUNDO PEQ (INFANTIL)
+http://200.59.188.3:8000/play/a0ed
+#EXTINF:-1,NICKELODEON (INFANTIL)
+http://200.59.188.3:8000/play/a00r
+#EXTINF:-1,NICKELODEON  (INFANTIL)
+http://200.59.188.3:8000/play/a056
+#EXTINF:-1,NICKELODEON (INFANTIL)
+http://204.157.251.250:8001/play/a02p/index.m3u8
+#EXTINF:-1,TEEN NICKELODEON (INFANTIL)
+http://204.157.251.250:8001/play/a002/index.m3u8
+#EXTINF:-1,NICKELODEON JUNIOR (INFANTIL)
+http://200.59.188.3:8000/play/a044
+#EXTINF:-1,TOON GOGLES (INFANTIL)
+http://200.59.188.3:8000/play/a0ec
+#EXTINF:-1,LOLLY KIDS (INFANTIL)
+http://200.59.188.3:8000/play/a02s
+#EXTINF:-1,PLIM PLIM (INFANTIL)
+http://200.59.188.3:8000/play/a091
+#EXTINF:-1,CARTOON NETWORK  (INFANTIL)
+http://200.59.188.3:8000/play/a022
+#EXTINF:-1,BABY FIRST (INFANTIL)
+http://200.59.188.3:8000/play/a05o
+#EXTINF:-1,DISCOVERY KIDS (INFANTIL)
+http://200.59.188.3:8000/play/a06c
+#EXTINF:-1,DISCOVERY KIDS  (INFANTIL)
+http://200.59.188.3:8000/play/a01d
+#EXTINF:-1,DISNEY CHANNEL (INFANTIL)
+http://200.59.188.3:8000/play/a00y
+#EXTINF:-1,DISNEY JUNIOR (INFANTIL)
+http://200.59.188.3:8000/play/a06p
+#EXTINF:-1, ######## DEPORTES ########
+C:\Users\Antonio\Desktop\IPTV\INTRO.mp4
+#EXTINF:-1,TyC Sports (DEPORTES)
+http://200.59.188.3:8000/play/a02n
+#EXTINF:-1,TVN HD (DEPORTES)
+http://200.59.188.3:8000/play/a00v
+#EXTINF:-1,ESPN 2 (DEPORTES)
+http://200.59.188.3:8000/play/a013
+#EXTINF:-1,ESPN 3 (DEPORTES)
+http://200.59.188.3:8000/play/a011
+#EXTINF:-1,ESPN 4 (DEPORTES)
+http://200.59.188.3:8000/play/a01j
+#EXTINF:-1,ESPN CO (DEPORTES)
+http://200.59.188.3:8000/play/a03i
+#EXTINF:-1,ESPN EXTRA (DEPORTES)
+http://200.59.188.3:8000/play/a01z
+#EXTINF:-1,ESPN (DEPORTES)
+http://200.59.188.3:8000/play/a02g
+#EXTINF:-1,ESPN (DEPORTES)
+http://200.59.188.3:8000/play/a01p
+#EXTINF:-1,ESPN (DEPORTES)
+http://204.157.251.250:8001/play/a055/index.m3u8
+#EXTINF:-1,ESPN Premium (DEPORTES)
+http://200.59.188.3:8000/play/a0gh
+#EXTINF:-1,ESPN Premium (DEPORTES)
+http://200.59.188.3:8000/play/a032
+#EXTINF:-1,ESPN 2 (DEPORTES)
+http://204.157.251.250:8001/play/a04t/index.m3u8
+#EXTINF:-1,ESPN 3 (DEPORTES)
+http://204.157.251.250:8001/play/a04u/index.m3u8
+#EXTINF:-1,ESPN 6 (DEPORTES)
+http://204.157.251.250:8001/play/a04v/index.m3u8
+#EXTINF:-1,ESPN 6 (DEPORTES)
+http://200.59.188.3:8000/play/a012
+#EXTINF:-1,ESPN 6 (DEPORTES)
+http://204.157.251.250:8001/play/a03n/index.m3u8
+#EXTINF:-1,ESPN 7 (DEPORTES)
+http://200.59.188.3:8000/play/a01k
+#EXTINF:-1,BEIN SPORTS XTRA (DEPORTES)
+http://200.59.188.3:8000/play/a0cm
+#EXTINF:-1,CLARO SPORTS  (DEPORTES)
+http://200.59.188.3:8000/play/a05j
+#EXTINF:-1,CLARO SPORTS 2 (DEPORTES)
+http://204.157.251.250:8001/play/a058/index.m3u8
+#EXTINF:-1,GOLF CHANNEL (DEPORTES)
+http://204.157.251.250:8001/play/a04c/index.m3u8
+#EXTINF:-1,WIN SPORTS  (DEPORTES)
+http://200.59.188.3:8000/play/a00n
+#EXTINF:-1,WIN SPORTS+  (DEPORTES)
+http://200.59.188.3:8000/play/a028
+#EXTINF:-1,TIGO SPORTS  (DEPORTES)
+http://204.157.251.250:8001/play/a02o/index.m3u8
+#EXTINF:-1, ######## NOVELAS ########
+C:\Users\Antonio\Desktop\IPTV\INTRO.mp4
+#EXTINF:-1,TELENOVELAS (NOVELAS)
+http://200.59.188.3:8000/play/a0fj
+#EXTINF:-1,PASIONES (NOVELAS)
+http://200.59.188.3:8000/play/a00x
+#EXTINF:-1,PASIONES (NOVELAS)
+http://204.157.251.250:8001/play/a03t/index.m3u8
+#EXTINF:-1,CANELA CLASICOS (NOVELAS)
+http://200.59.188.3:8000/play/a0ee
+#EXTINF:-1,CANELA NOVELAS (NOVELAS)
+http://200.59.188.3:8000/play/a0ei
+#EXTINF:-1,CORAZON (NOVELAS)
+http://200.59.188.3:8000/play/a0ek
+#EXTINF:-1,NOVELISIMA (NOVELAS)
+http://200.59.188.3:8000/play/a0ef
+#EXTINF:-1,OROMAR TV (NOVELAS)
+http://200.59.188.3:8000/play/a09f
+#EXTINF:-1, ######## VARIEDADES ########
+C:\Users\Antonio\Desktop\IPTV\INTRO.mp4
+#EXTINF:-1,NAT GEO (VARIEDADES)
+http://200.59.188.3:8000/play/a01v
+#EXTINF:-1,CINE LATINO (VARIEDADES)
+http://45.228.234.210:8000/play/a01m/index.m3u8
+#EXTINF:-1,MULTICINEMA (VARIEDADES)
+http://45.228.234.210:8000/play/a02n/index.m3u8
+#EXTINF:-1,MULTIPREMIER (VARIEDADES)
+http://45.228.234.210:8000/play/a01l/index.m3u8
+#EXTINF:-1,FX (VARIEDADES)
+http://45.228.234.210:8000/play/a028/index.m3u8
+#EXTINF:-1,CLARO CINEMA (VARIEDADES)
+http://200.59.188.3:8000/play/a043
+#EXTINF:-1,SUN CHANNEL (VARIEDADES)
+http://45.228.234.210:8000/play/a02d/index.m3u8
+#EXTINF:-1,GOLDEN (VARIEDADES)
+http://45.228.234.210:8000/play/a02l/index.m3u8
+#EXTINF:-1,GOLDEN PLUS (VARIEDADES)
+http://200.59.188.3:8000/play/a02d
+#EXTINF:-1,A&E (VARIEDADES)
+http://204.157.251.250:8001/play/a007/index.m3u8
+#EXTINF:-1,A&E (VARIEDADES)
+http://200.59.188.3:8000/play/a00f
+#EXTINF:-1,A&E (VARIEDADES)
+http://200.59.188.3:8000/play/a078
+#EXTINF:-1,AXN (VARIEDADES)
+http://200.59.188.3:8000/play/a00i
+#EXTINF:-1,AXN (VARIEDADES)
+http://200.59.188.3:8000/play/a03u
+#EXTINF:-1,AXN (VARIEDADES)
+http://45.228.234.210:8000/play/a05j/index.m3u8
+#EXTINF:-1,AMC (VARIEDADES)
+http://200.59.188.3:8000/play/a01y
+#EXTINF:-1,LIFE TIME (VARIEDADES)
+http://45.228.234.210:8000/play/a05f/index.m3u8
+#EXTINF:-1,STAR TVE (VARIEDADES)
+http://200.59.188.3:8000/play/a025
+#EXTINF:-1,TCM (VARIEDADES)
+http://45.228.234.210:8000/play/a02m/index.m3u8
+#EXTINF:-1,STAR TVE (VARIEDADES)
+http://204.157.251.250:8001/play/a00f/index.m3u8
+#EXTINF:-1,FILM & ARTS (VARIEDADES)
+http://204.157.251.250:8001/play/a042/index.m3u8
+#EXTINF:-1,CARAS TV (VARIEDADES)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0066
+#EXTINF:-1,ATRES SERIES (VARIEDADES)
+http://200.59.188.3:8000/play/a015
+#EXTINF:-1,ANIMAL PLANET (VARIEDADES)
+http://200.59.188.3:8000/play/a029
+#EXTINF:-1,ANTENA 3 (VARIEDADES)
+http://200.59.188.3:8000/play/a0f3
+#EXTINF:-1,BIG TIME (VARIEDADES)
+http://200.59.188.3:8000/play/a0c1
+#EXTINF:-1,CANAL 1 (VARIEDADES)
+http://200.59.188.3:8000/play/a09h
+#EXTINF:-1,COLOMBEIA (VARIEDADES)
+http://200.59.188.3:8000/play/a08q
+#EXTINF:-1,CANAL CLARO (VARIEDADES)
+http://200.59.188.3:8000/play/a07t
+#EXTINF:-1,CINE FEEL GOOD (VARIEDADES)
+http://200.59.188.3:8000/play/a0fv
+#EXTINF:-1,CITY TV (VARIEDADES)
+http://200.59.188.3:8000/play/a03o
+#EXTINF:-1,CLOVER (VARIEDADES)
+http://200.59.188.3:8000/play/a00o
+#EXTINF:-1,COMEDY CENTRAL (VARIEDADES)
+http://200.59.188.3:8000/play/a017
+#EXTINF:-1,CONCIENCIA TV (VARIEDADES)
+http://200.59.188.3:8000/play/a08t
+#EXTINF:-1,DISCOVERY H&H (VARIEDADES)
+http://200.59.188.3:8000/play/a01e
+#EXTINF:-1,DISCOVERY CHANNEL (VARIEDADES)
+http://200.59.188.3:8000/play/a031
+#EXTINF:-1,DISCOVERY THEATER (VARIEDADES)
+http://200.59.188.3:8000/play/a01f
+#EXTINF:-1,DISCOVERY TURBO (VARIEDADES)
+http://200.59.188.3:8000/play/a045
+#EXTINF:-1,DISCOVERY WORLD (VARIEDADES)
+http://200.59.188.3:8000/play/a01w
+#EXTINF:-1,E! (VARIEDADES)
+http://200.59.188.3:8000/play/a02h
+#EXTINF:-1,GOURMET (VARIEDADES)
+http://200.59.188.3:8000/play/a01a
+#EXTINF:-1,ESNE TV (VARIEDADES)
+http://200.59.188.3:8000/play/a046
+#EXTINF:-1,FOOD NETWORK (VARIEDADES)
+http://200.59.188.3:8000/play/a02k
+#EXTINF:-1,HOLA TV HD
+http://200.59.188.3:8000/play/a00z
+#EXTINF:-1,HISTORY CHANNEL 2 (VARIEDADES)
+http://200.59.188.3:8000/play/a033
+#EXTINF:-1,HISTORY CHANNEL (VARIEDADES)
+http://200.59.188.3:8000/play/a00e
+#EXTINF:-1,ID (VARIEDADES)
+http://200.59.188.3:8000/play/a018
+#EXTINF:-1,IVC (VARIEDADES)
+http://200.59.188.3:8000/play/a0eu
+#EXTINF:-1,CANAL D DRAMA (VARIEDADES)
+http://200.59.188.3:8000/play/a021
+#EXTINF:-1,LAS ESTRELLAS (VARIEDADES)
+http://200.59.188.3:8000/play/a02z
+#EXTINF:-1,LIFETIME (VARIEDADES)
+http://200.59.188.3:8000/play/a05p
+#EXTINF:-1,LOVE NATURE (VARIEDADES)
+http://200.59.188.3:8000/play/a02t
+#EXTINF:-1,SUN CHANNEL (VARIEDADES)
+http://200.59.188.3:8000/play/a01c
+#EXTINF:-1,USA (VARIEDADES)
+http://200.59.188.3:8000/play/a05q
+#EXTINF:-1,TCM (VARIEDADES)
+http://200.59.188.3:8000/play/a05g
+#EXTINF:-1,TLC (VARIEDADES)
+http://200.59.188.3:8000/play/a07k
+#EXTINF:-1,TELE TUYA (VARIEDADES)
+http://200.59.188.3:8000/play/a098
+#EXTINF:-1,TELE TUYA (VARIEDADES)
+http://200.59.188.3:8000/play/a09e
+#EXTINF:-1,TMA (VARIEDADES)
+http://200.59.188.3:8000/play/a0bz
+#EXTINF:-1,ADULT SWIN (VARIEDADES)
+http://200.59.188.3:8000/play/a019
+#EXTINF:-1,TVE (VARIEDADES)
+http://200.59.188.3:8000/play/a05n
+#EXTINF:-1,TVES (VARIEDADES)
+http://200.59.188.3:8000/play/a08n
+#EXTINF:-1,TV FANB (VARIEDADES)
+http://200.59.188.3:8000/play/a08y
+#EXTINF:-1,TV PLUS (VARIEDADES)
+http://200.59.188.3:8000/play/a0ce
+#EXTINF:-1,TELEMUNDO (VARIEDADES)
+http://200.59.188.3:8000/play/a07p
+#EXTINF:-1,TELEMUNDO (VARIEDADES)
+http://204.157.251.250:8001/play/a009/index.m3u8
+#EXTINF:-1,VPACO TV (VARIEDADES)
+http://200.59.188.3:8000/play/a09d
+#EXTINF:-1,VIVE (VARIEDADES)
+http://200.59.188.3:8000/play/a08m
+#EXTINF:-1,ZONA LATINA (VARIEDADES)
+http://200.59.188.3:8000/play/a05d
+#EXTINF:-1,AMC (VARIEDADES)
+http://204.157.251.250:8001/play/a008/index.m3u8
+#EXTINF:-1,ANIMAL PLANET (VARIEDADES)
+http://204.157.251.250:8001/play/a004/index.m3u8
+#EXTINF:-1,CANAL 7 (VARIEDADES)
+http://204.157.251.250:8001/play/a001/index.m3u8
+#EXTINF:-1,COMEDY CENTRAL (VARIEDADES)
+http://204.157.251.250:8001/play/a02u/index.m3u8
+#EXTINF:-1,DHE (VARIEDADES)
+http://204.157.251.250:8001/play/a049/index.m3u8
+#EXTINF:-1,DISCOVERY THEATHER (VARIEDADES)
+http://204.157.251.250:8001/play/a02r/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL (VARIEDADES)
+http://204.157.251.250:8001/play/a03r/index.m3u8
+#EXTINF:-1,DISCOVERY ID (VARIEDADES)
+http://204.157.251.250:8001/play/a03v/index.m3u8
+#EXTINF:-1,DISCOVERY WORLD (VARIEDADES)
+http://204.157.251.250:8001/play/a03s/index.m3u8
+#EXTINF:-1,E! (VARIEDADES)
+http://204.157.251.250:8001/play/a005/index.m3u8
+#EXTINF:-1,EUROPA (VARIEDADES)
+http://204.157.251.250:8001/play/a00b/index.m3u8
+#EXTINF:-1,FX (VARIEDADES)
+http://204.157.251.250:8001/play/a00a/index.m3u8
+#EXTINF:-1,HOLA! TV (VARIEDADES)
+http://204.157.251.250:8001/play/a02t/index.m3u8
+#EXTINF:-1,H&H (VARIEDADES)
+http://204.157.251.250:8001/play/a02s/index.m3u8
+#EXTINF:-1,NAT GEO (VARIEDADES)
+http://204.157.251.250:8001/play/a03o/index.m3u8
+#EXTINF:-1,UNIVISION (VARIEDADES)
+http://204.157.251.250:8001/play/a03u/index.m3u
